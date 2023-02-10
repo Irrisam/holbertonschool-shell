@@ -1,2 +1,2 @@
 #!/bin/bash 
-mv /tmp/u ls -d *[[:upper:]]*
+mv ls [A-Z] /tmp/u
